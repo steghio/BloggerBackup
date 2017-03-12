@@ -1,7 +1,7 @@
 # BloggerBackup
 Command line script to backup Blogger posts
 
-This script allows users to quickly download posts from their Blogger blog in order to keep a backup copy. On Windows there is the amazing BloggerBackupUtility https://bloggerbackup.codeplex.com/ but sadly that's not available for Linux as well, hence this small project comes to life.
+This script allows users to quickly download posts from their Blogger blog in order to keep a backup copy. On Windows there is the amazing BloggerBackupUtility https://bloggerbackup.codeplex.com/ but sadly that's not available for Linux as well, hence this small project comes to life. It requires Python 3.
 
 Usage is:
 
