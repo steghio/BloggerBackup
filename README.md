@@ -24,3 +24,5 @@ options:
         --verbose - optional, prints debug information while processing
         
 The script is extremely barebone and definitely improvable. Also, it requires you to setup an own API key in order to issue queries in the free tier. To do so, visit https://console.developers.google.com/apis/credentials
+
+Project is licensed under a [CreativeCommons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
